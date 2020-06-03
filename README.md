@@ -1,4 +1,4 @@
-# Azure Metadata Workflows
+# Azure Metadata Exploration
 
 Azure provides a rich ecosystem of metadata about the operation of Azure itself. The metadata is exposed to you via a variety of modalities. Some data is, or can be, exported to storage (diagnostics, costs), some data is only available via APIs (Azure Monitor Metrics), and some data is available via platform-hosted Kusto (Azure Monitor Logs, Azure Resource Graph). As you scale your use of Azure, you will often find that you need combine the datasets to answer questions about your business built on top of Azure.
 
